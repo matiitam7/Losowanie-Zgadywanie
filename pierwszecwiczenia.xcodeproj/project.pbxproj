@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3461252F1BCC463F0075B0BF /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3461252E1BCC463F0075B0BF /* main.cpp */; };
+		3461252F1BCC463F0075B0BF /* losowanie&zgadywanie.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3461252E1BCC463F0075B0BF /* losowanie&zgadywanie.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		3461252B1BCC463F0075B0BF /* pierwszecwiczenia */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = pierwszecwiczenia; sourceTree = BUILT_PRODUCTS_DIR; };
-		3461252E1BCC463F0075B0BF /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		3461252E1BCC463F0075B0BF /* losowanie&zgadywanie.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "losowanie&zgadywanie.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		3461252D1BCC463F0075B0BF /* pierwszecwiczenia */ = {
 			isa = PBXGroup;
 			children = (
-				3461252E1BCC463F0075B0BF /* main.cpp */,
+				3461252E1BCC463F0075B0BF /* losowanie&zgadywanie.cpp */,
 			);
 			path = pierwszecwiczenia;
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3461252F1BCC463F0075B0BF /* main.cpp in Sources */,
+				3461252F1BCC463F0075B0BF /* losowanie&zgadywanie.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -235,6 +235,7 @@
 				346125341BCC463F0075B0BF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
